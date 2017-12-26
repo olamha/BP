@@ -142,7 +142,7 @@ http://upload-images.jianshu.io/upload_images/3128126-8cc14b2ac665f7d1.png?image
 ## 2-4
 點擊反饋
 
-小明看到時間妯娌已經有他剛剛傳的圖和日記
+小明看到時間軸裡已經有他剛剛傳的圖和日記
 
 反饋內文寫：
 
